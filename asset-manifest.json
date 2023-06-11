@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https://github.com/1718wani/tsmemoapp.git/static/css/main.3d5a6c3c.css",
-    "main.js": "/https://github.com/1718wani/tsmemoapp.git/static/js/main.78661a18.js",
-    "index.html": "/https://github.com/1718wani/tsmemoapp.git/index.html",
-    "main.3d5a6c3c.css.map": "/https://github.com/1718wani/tsmemoapp.git/static/css/main.3d5a6c3c.css.map",
-    "main.78661a18.js.map": "/https://github.com/1718wani/tsmemoapp.git/static/js/main.78661a18.js.map"
+    "main.css": "/tsmemoapp/static/css/main.3d5a6c3c.css",
+    "main.js": "/tsmemoapp/static/js/main.78661a18.js",
+    "index.html": "/tsmemoapp/index.html",
+    "main.3d5a6c3c.css.map": "/tsmemoapp/static/css/main.3d5a6c3c.css.map",
+    "main.78661a18.js.map": "/tsmemoapp/static/js/main.78661a18.js.map"
   },
   "entrypoints": [
     "static/css/main.3d5a6c3c.css",
