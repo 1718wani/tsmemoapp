@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/tsmemoapp/static/css/main.c49baf4c.css",
-    "main.js": "/tsmemoapp/static/js/main.e383392d.js",
+    "main.css": "/tsmemoapp/static/css/main.65f5effc.css",
+    "main.js": "/tsmemoapp/static/js/main.b6fc0503.js",
+    "static/media/noImage.jpeg": "/tsmemoapp/static/media/noImage.ace953f197ee3d95e545.jpeg",
     "index.html": "/tsmemoapp/index.html",
-    "main.c49baf4c.css.map": "/tsmemoapp/static/css/main.c49baf4c.css.map",
-    "main.e383392d.js.map": "/tsmemoapp/static/js/main.e383392d.js.map"
+    "main.65f5effc.css.map": "/tsmemoapp/static/css/main.65f5effc.css.map",
+    "main.b6fc0503.js.map": "/tsmemoapp/static/js/main.b6fc0503.js.map"
   },
   "entrypoints": [
-    "static/css/main.c49baf4c.css",
-    "static/js/main.e383392d.js"
+    "static/css/main.65f5effc.css",
+    "static/js/main.b6fc0503.js"
   ]
 }

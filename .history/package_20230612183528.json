@@ -1,0 +1,73 @@
+{
+  "name": "tstodolist",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.13",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "dayjs": "^1.11.8",
+    "express": "^4.18.2",
+    "gh-pages": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.44.3",
+    "react-router-dom": "^6.12.1",
+    "react-scripts": "5.0.1",
+    "typescript": "^5.1.3",
+    "web-vitals": "^2.1.0"
+  },
+  "homepage": "https://1718wani.github.io/tsmemoapp",
+  "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack --mode production",
+    "predeploy": "npm run build",
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "@typescript-eslint/eslint-plugin": "^5.59.9",
+    "@typescript-eslint/parser": "^5.59.9",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.42.0",
+    "tailwindcss": "^3.3.2",
+    "webpack": "^5.86.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1718wani/tsmemoapp.git"
+  },
+  "author": "1718wani <ikuya1293@gmail.com>",
+  "license": "MIT",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "bugs": {
+    "url": "https://github.com/1718wani/tsmemoapp/issues"
+  },
+  "keywords": []
+}
